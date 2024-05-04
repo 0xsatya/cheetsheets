@@ -1,5 +1,5 @@
 # Cheetsheets
-This repo contains various cheetsheets on various programming languages. 
+This repo contains cheetsheets on various programming languages. 
 
 Stay focused and keep learning.
 
