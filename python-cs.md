@@ -148,7 +148,7 @@ for x in range(2, 30, 3): // loop with increment of 3 //default loop with 1.
   print(x)
   
 --- do sth when loop ends ---
-or x in range(6):
+for x in range(6):
   print(x)
 else:
   print("Finally finished!")
